@@ -1,6 +1,7 @@
 # Powershell-enumerate-rdp
 This script help in harvesting RDP users that are connected to targets machines by using the "Query user" command
 
+```
 <#
 .SYNOPSIS
     query user /server:[ip]
@@ -16,3 +17,4 @@ This script help in harvesting RDP users that are connected to targets machines 
     Author: Securitree
     Date:   26/07/2019  
 #>
+```
