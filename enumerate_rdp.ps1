@@ -10,7 +10,7 @@
     This script will launch the command "query user /server:[ip]" against all the 10.1.1.0/24 subnet.
 	If -Server is omitted, user will be prompted for the value
 .NOTES
-    Author: Securitree
+    Author: LSanga
     Date:   26/07/2019    
 #>
 
